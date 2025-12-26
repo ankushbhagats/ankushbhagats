@@ -37,7 +37,7 @@
 
 ### Talking about Personal Stuff:
 - 🕵️ I’m looking to collaborate with other content creators.
-- 💬 Join my [telegram](https://t.me/bhagatsoft) group.
+- 💬 Join my [telegram](https://t.me/bhagatc) group.
 - 📫 Reach me out: ankushbhagatofficial@gmail.com.
 
 ### My Absolute Favorites:
