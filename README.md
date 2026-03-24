@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushbhagats&hide=c%23,powershell,Mathematica,roff,perl,makefile,lua,vim%20script,batchfile,dockerfile,less,hack,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushbhagats&hide=c%23,powershell,Mathematica,roff,perl,makefile,vim%20script,batchfile,dockerfile,less,hack,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0" />
   </a>
 </div>
 
@@ -36,9 +36,9 @@
 <img align="right" width="450" alt="" src="https://github.com/ankushbhagats/ankushbhagats/assets/63346676/eeb252e8-7e69-4fac-9975-892de9b2c82a">
 
 ### Talking about Personal Stuff:
-- 🕵️ I’m looking to collaborate with other content creators.
-- 💬 Join my [telegram](https://t.me/bhagatc) group.
-- 📫 Reach me out: ankushbhagatofficial@gmail.com.
+- 🕵️ Open to collaborating with fellow creators
+- 💬 Join my Telegram [community](https://t.me/bhagatc)
+- 📫 Contact: ankushbhagatofficial@gmail.com
 
 ### My Absolute Favorites:
 - 🧑‍💻 I like to writing code and learn anythings about it.
@@ -80,7 +80,7 @@
 <a href="https://github.com/ankushbhagats"><img title="ankushbhagats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushbhagats&custom_title=Known%20Languages&card_width=400&langs_count=8&hide=hack,roff,less,perl,ruby,scss,batchfile,dockerfile,"></a>
 </div>-->
 
-# ⠀
+---
 
 ### Top Repositories:
 
