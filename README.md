@@ -75,34 +75,6 @@
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
-<!--
-<div align="center">
-<a href="https://github.com/ankushbhagats"><img title="ankushbhagats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushbhagats&custom_title=Known%20Languages&card_width=400&langs_count=8&hide=hack,roff,less,perl,ruby,scss,batchfile,dockerfile,"></a>
-</div>-->
-
----
-
-### Top Repositories:
-
-<div align="center">
-<a href="https://github.com/ankushbhagats/pentesting-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushbhagats&repo=pentesting-framework"></a>
-<a href="https://github.com/ankushbhagats/Theme-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushbhagats&repo=Theme-Engine"></a>
-<a href="https://github.com/ankushbhagats/terminal-widgets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushbhagats&repo=terminal-widgets"></a>
-<a href="https://github.com/ankushbhagats/Login-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushbhagats&repo=Login-page"></a>
-<a href="https://github.com/ankushbhagats/Termux-security"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ankushbhagats&repo=Termux-security"></a>
-</div>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer">
 </div>
-
-<!--
-<img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=grey)](https://github.com/ankushbhagats">
-https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ankushbhagats&repo=github-visitors-badge&countColorcountColor&countColor=%23211F18
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=&fontSize=90" />
-<img scr="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true" />
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=&fontSize=90&reversal=true" />
-**ankushbhagats/ankushbhagats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
